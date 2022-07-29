@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">OUR ARDs</string>
+    <string name="todo">todo</string>
+    <string name="total_our_ards_score">TOTAL OUR-ARDs SCORE :</string>
+    <string name="condition">CONDITION :</string>
+    <string name="name">NAME :</string>
+    <string name="name1">Name</string>
+    <string name="oxygen_saturation_less_than_94">OXYGEN SATURATION LESS THAN 94</string>
+    <string name="submit">SUBMIT</string>
+    <string name="diabetes">DIABETES +/-</string>
+    <string name="nrl_less_than_3">NRL LESS THAN 3</string>
+    <string name="heart_rate_greater_than_100">HEART RATE GREATER THAN 100</string>
+    <string name="urea_greater_than_40">UREA GREATER THAN 40</string>
+    <string name="todo1">TODO</string>
+    <string name="powered_by">POWERED BY</string>
+    <string name="todo2">TODO</string>
+    <string name="age_greater_than_50">AGE GREATER THAN 50</string>
+    <string name="total_score">Total_Score</string>
+    <string name="condition2">Condition</string>
+    <string name="our_ards_application">OUR-ARDs APPLICATION</string>
+    <string name="disclaimer_this_may_be_varient_specific_hence_please_consult_your_physician">DISCLAIMER: THIS MAY BE VARIENT SPECIFIC. HENCE PLEASE CONSULT YOUR PHYSICIAN.</string>
+    <string name="todo5">TODO</string>
+
+</resources>
